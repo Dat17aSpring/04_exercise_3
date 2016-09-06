@@ -1,4 +1,4 @@
-# 02 Exercise 2: HIT
+# 02 Exercise 3: HIT
 
 Create an index.html page that will display the following.
 
